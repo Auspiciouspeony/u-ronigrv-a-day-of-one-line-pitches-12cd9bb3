@@ -1,0 +1,1 @@
+That app idea you keep telling friends about: say it once, in your own words, and an AI agent builds you a working first version to poke at — if it's not right, just tell it, and it changes it.
